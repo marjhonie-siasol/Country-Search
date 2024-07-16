@@ -19,6 +19,7 @@ const apiUrl=`https://restcountries.com/v3.1/`;
 
 
 
+
 searchItem.onkeyup = function (e) {if (e. key === 'Enter') {searchBtn.click(); }}
 mql.onchange = (e) => {
     if (e.matches) 

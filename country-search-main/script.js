@@ -7,7 +7,6 @@ var loading = document.querySelector('#loading');
 var docs = document.querySelector('#docs');
 var mql = window.matchMedia('(max-width: 1025px)');
 
-
 var isToogle = false;
 var isDoc = false;
 var selections = ["all","name","capital","currency","lang","region","subregion"];
